@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbf78204.css",
+    "main.js": "/static/js/main.e128a3a8.js",
+    "static/js/787.b0478ff4.chunk.js": "/static/js/787.b0478ff4.chunk.js",
+    "static/media/peopleChatting.jpg": "/static/media/peopleChatting.e3c2dd9ef41aefcd04bf.jpg",
+    "static/media/help.png": "/static/media/help.541842e65bcf02420557.png",
+    "static/media/settings.png": "/static/media/settings.fd9cb79a2028b66f67eb.png",
+    "static/media/EmojiKeyboard.png": "/static/media/EmojiKeyboard.75b582cc6d76b9ebcd5b.png",
+    "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
+    "static/media/add-file.png": "/static/media/add-file.d5f57dec7dc8595ab2a5.png",
+    "static/media/search.png": "/static/media/search.1d92f967297920015306.png",
+    "static/media/newGroup1.png": "/static/media/newGroup1.a8a53550297d4cd01f7a.png",
+    "static/media/audio.png": "/static/media/audio.788adb5ad58479e1e384.png",
+    "static/media/new-message.png": "/static/media/new-message.6738c1098674dfc6c999.png",
+    "static/media/addNewContact.png": "/static/media/addNewContact.724c8874e470342e3939.png",
+    "static/media/default.jpg": "/static/media/default.4aa827c3440249505e81.jpg",
+    "static/media/welcomeChat2.png": "/static/media/welcomeChat2.4c22a7ae7e81d2c6ef99.png",
+    "static/media/defaultBase64.txt": "/static/media/defaultBase64.f90a12a9b42539321f7d.txt",
+    "index.html": "/index.html",
+    "main.cbf78204.css.map": "/static/css/main.cbf78204.css.map",
+    "main.e128a3a8.js.map": "/static/js/main.e128a3a8.js.map",
+    "787.b0478ff4.chunk.js.map": "/static/js/787.b0478ff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf78204.css",
+    "static/js/main.e128a3a8.js"
+  ]
+}
