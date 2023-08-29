@@ -130,3 +130,10 @@ To run your chat project, follow these instructions:
 4.  To get started, register an account by providing the required details. Once registered, you can proceed to log in using your credentials.
     
 5.  After logging in, you can start enjoying the chat functionality and engage with other users in real-time.
+
+   *** Make sure that you install nodemon:
+       `npm install -g nodemon`
+       </br>
+   *** Make sure that you install Express:
+       `npm install express`
+
