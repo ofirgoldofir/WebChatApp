@@ -1,7 +1,4 @@
 
-
-## <div align=center>❤️ **This is The third assingment ** ❤️</div>
-
 # Chat Project
 
 This web chat project utilizes a powerful stack of technologies including HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node.JS, Express, MongoDB, and WebSockets. With these tools, we have created an interactive and efficient chat application.
